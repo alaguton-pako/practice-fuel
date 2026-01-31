@@ -72,4 +72,6 @@ Polish last (colors, spacing, hover states)
 
 
 
+Note: To run the application kindly clone the repo or extract the zip file and open on your preffered editor tool, change directory to practice-summary-asssesment by running cd practice-summary-assesment after clonnig then run npm install followed by npm run dev.
+
 
